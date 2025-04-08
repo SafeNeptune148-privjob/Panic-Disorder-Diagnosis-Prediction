@@ -7,12 +7,19 @@ Diagnosing panic disorders is difficult, but early detection can save lives. Thi
  Dataset
 Sourced from [Kaggle](#), containing 100,000+ instances with medical, demographic, and psychological features.
 
+Exploratory Data Anlysis
+[Exploratory Data Analysys notebook](./Exploratory_Data_Analysis.ipynb)
+
  Models Used
 - Random Forest
+- [Data Preprocessing for Random Forest](./Preprocessing_module.ipynb)
+  [Notebook Random Forest](./Random_forest_intento_1.ipynb)
 - XGBoost
+  [Notebook XGBoost](./XGBOOST_model.ipynb)
 - Logistic Regression
+  [Notebook Logistic Regression](./Logistic_model.ipynb)
 - Hierarchical Clustering (Gower + T-SNE)
-
+  
  Key Results
 - XGBoost Accuracy: **0.99**, 0 False Negatives
 - Insightful clusters found using Gower distance
