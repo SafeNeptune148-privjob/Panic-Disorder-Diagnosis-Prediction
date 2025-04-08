@@ -17,4 +17,5 @@ Sourced from [Kaggle](#), containing 100,000+ instances with medical, demographi
 - XGBoost Accuracy: **0.99**, 0 False Negatives
 - Insightful clusters found using Gower distance
 
-# Please Check the full report in the section below!!
+# Please Check the full report below!!
+[📄 View Full Report (PDF)](./Anxiety_disorder_report.pdf)
