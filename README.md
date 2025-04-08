@@ -12,13 +12,14 @@ Exploratory Data Anlysis
 
  Models Used
 - Random Forest
-- [Data Preprocessing for Random Forest](./Preprocessing_module.ipynb)
+  [Data Preprocessing for Random Forest](./Preprocessing_module.ipynb)
   [Notebook Random Forest](./Random_forest_intento_1.ipynb)
 - XGBoost
   [Notebook XGBoost](./XGBOOST_model.ipynb)
 - Logistic Regression
   [Notebook Logistic Regression](./Logistic_model.ipynb)
 - Hierarchical Clustering (Gower + T-SNE)
+  [Notebook Clustering](./Hierarchical_GowersD.ipynb)
   
  Key Results
 - XGBoost Accuracy: **0.99**, 0 False Negatives
